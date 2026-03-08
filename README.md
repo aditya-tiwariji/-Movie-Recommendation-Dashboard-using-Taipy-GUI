@@ -61,7 +61,7 @@ movie-recommendation-dashboard
     └── rating_chart.png
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/movie-recommendation-dashboard.git
+git clone https://github.com/aditya-tiwariji/movie-recommendation-dashboard.git
 2️⃣ Navigate to the project folder
 cd movie-recommendation-dashboard
 3️⃣ Install dependencies
